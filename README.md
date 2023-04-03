@@ -29,7 +29,7 @@ Welcome! This project has been developed as a calculator to improve my Javascrip
 ## Access here:
 
 
-#### Site: https://lukaslkirsten.github.io/Countdown-Timer/
+#### Site: https://lukaslkirsten.github.io/Calculator/
 
 
 

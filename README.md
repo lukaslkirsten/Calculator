@@ -1,6 +1,6 @@
 
 
-# My Calculator
+# Calculator
 
 Welcome! This project has been developed as a calculator to improve my Javascript skills.
  

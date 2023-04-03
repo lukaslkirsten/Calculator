@@ -11,7 +11,7 @@ Welcome! This project has been developed as a calculator to improve my Javascrip
 
 
 <div>
-  <img alt="ScreenShot" title="ScreenShot" src="https://user-images.githubusercontent.com/116753407/229575620-694f59f2-3074-4731-9556-968e51edab92.png"  width="700px" />
+  <img alt="ScreenShot" title="ScreenShot" src="https://user-images.githubusercontent.com/116753407/229615702-d37999d9-4b2d-4c2e-b712-d91c86b8a7e1.png"  width="700px" />
 </div>
 
 
